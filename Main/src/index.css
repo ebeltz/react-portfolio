@@ -41,14 +41,14 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Aladin', cursive;
+  font-family: 'Montserrat', bold;
   font-weight: 500;
   margin: 5px 0;
   line-height: 1.25;
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 4rem;
   margin: 50px 20px;
   text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 }
@@ -182,9 +182,9 @@ header img {
 
 nav {
   position: relative;
-  font-family: 'Aladin', cursive;
-  font-size: 2.5rem;
-  margin: 30px 20px;
+  font-family: 'Montserrat';
+  font-size: 1.5rem;
+  margin: 60px 20px;
 }
 
 nav a:hover {
