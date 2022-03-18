@@ -2,7 +2,7 @@
   ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
   
   ## Description 
-  This project is a React portfolio containing my best work from my bootcamp. I used React and CSS to create this portfolio and used screenshots of my projects to provided a snapshot of what the projects look like. 
+  This project is a React portfolio containing my best work from my bootcamp. I used React and CSS to create this portfolio and used screenshots of my projects to provide a snapshot of what the projects look like. 
 
   ## Table of Contents
   * [Installation](#installation)
