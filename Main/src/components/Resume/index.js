@@ -23,8 +23,10 @@ function Resume() {
           <li>APIs</li>
           <li>Node</li>
           <li>Express</li>
-          <li>MySQL, Sequelize</li>
-          <li>MongoDB, Mongoose</li>
+          <li>MySQL</li>
+          <li>Sequelize</li>
+          <li>MongoDB</li>
+          <li>Mongoose</li>
           <li>REST</li>
           <li>GraphQL</li>
           <li>MERN</li>
