@@ -77,6 +77,9 @@ function Contact() {
         )}
         <button type="submit">Submit</button>
       </form>
+      <div>
+        <p>Email: <a href="mailto:ebbeltz@gmail.com">ebbeltz@gmail.com</a></p>
+      </div>
     </section>
   );
 }

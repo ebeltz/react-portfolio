@@ -10,11 +10,11 @@ function Footer() {
     },
     {
       name: "fab fa-linkedin",
-      link: "www.linkedin.com/in/elizabethbeltz"
+      link: "https://linkedin.com/in/elizabethbeltz"
     },
     {
       name: "fab fa-stack-overflow",
-      link: "https://stackoverflow.com/users/16864734/elizabeth-b?tab=profile"
+      link: "https://stackexchange.com/users/22696724/elizabeth-b"
     }
   ]
 
