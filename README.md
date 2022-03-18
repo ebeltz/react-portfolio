@@ -31,9 +31,9 @@
   npm start
 
   ## Screenshots
-  ![Screenshot #1](https://github.com/ebeltz/my-media-social-network-api/blob/main/Assets/screenshot1.png)
-  ![Screenshot #2](https://github.com/ebeltz/my-media-social-network-api/blob/main/Assets/screenshot2.png)
-  ![Screenshot #3](https://github.com/ebeltz/my-media-social-network-api/blob/main/Assets/screenshot3.png)
+  ![Screenshot #1](https://github.com/ebeltz/react-portfolio/blob/main/Assets/screenshot1.png)
+  ![Screenshot #2](https://github.com/ebeltz/react-portfolio/blob/main/Assets/screenshot2.png)
+  ![Screenshot #3](https://github.com/ebeltz/react-portfolio/blob/main/Assets/screenshot3.png)
 
   ## Questions
   You can view more of my projects at https://github.com/ebeltz.
