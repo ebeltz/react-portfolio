@@ -356,6 +356,11 @@ textarea {
   cursor: default;
   text-shadow: 3px 3px 15px rgba(255, 255, 255, 0.5);
 }
+
+.avatar img {
+  max-width: 50%;
+}
+
 @media only screen and (max-width: 1300px) {
   nav {
     position: static;

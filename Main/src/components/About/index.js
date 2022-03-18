@@ -1,11 +1,12 @@
 import React from 'react';
+import avatar from '../../assets/avatar.jpg';
 
 function About() {
   return (
     <section className="my-5">
       <div className="my-2">
         <div className="profile-img my-5">
-        <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
+        <img style={{ maxWidth: "150px" }} src={avatar} alt="picture of myself"></img>
         </div>
         <p>
         Hello! Welcome to my portfolio! I graduated from Lehigh University with a degree in English and a double minor in Graphic Design and Supply Chain Management. Most of my work that you see below was created during a Coding Bootcamp that I took through the University of North Carolina - Chapel Hill. I learned all types of coding through this class like HTML, CSS, JavaScript, React, Node, MySQL, etc.
