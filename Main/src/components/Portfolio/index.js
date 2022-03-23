@@ -30,10 +30,10 @@ function Portfolio() {
       repo: "https://github.com/acdodd17/wine-share/tree/main"
     },
     {
-      name: 'my-tech-blog',
-      description: 'MVC',
-      link: "https://my-tech-blog-22.herokuapp.com",
-      repo: "https://github.com/ebeltz/my-tech-blog"
+      name: 'talkie-box',
+      description: 'MERN',
+      link: "https://dashboard.heroku.com/apps/protected-forest-66303/deploy/heroku-git",
+      repo: "https://github.com/wcastellan/talkie-box"
     },
     {
       name: 'note-taker',
