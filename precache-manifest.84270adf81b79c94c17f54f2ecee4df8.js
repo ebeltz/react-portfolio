@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ee558d7701719aaaf230ebe2c21896a",
+    "revision": "c0cf11423e0eebc4565fd2f510915347",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "6900eaaef790cca1b9ea",
+    "revision": "34b8635a7b68d71d53ee",
     "url": "/react-portfolio/static/css/main.fbc0cfb7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/js/2.aadc951f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6900eaaef790cca1b9ea",
-    "url": "/react-portfolio/static/js/main.c54bcce6.chunk.js"
+    "revision": "34b8635a7b68d71d53ee",
+    "url": "/react-portfolio/static/js/main.b2c3e9a1.chunk.js"
   },
   {
     "revision": "73a871a578ef5a2aeb49",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "938f8fe0fe2e5880b3ef528c5188a096",
     "url": "/react-portfolio/static/media/run-buddy.938f8fe0.jpg"
+  },
+  {
+    "revision": "12aaa25da2d7525a365e3889967b3856",
+    "url": "/react-portfolio/static/media/talkie-box.12aaa25d.jpg"
   },
   {
     "revision": "1111ba4c709ff93ff607f6145134bbb0",
